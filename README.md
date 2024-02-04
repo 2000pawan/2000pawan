@@ -26,28 +26,28 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
-  <img src='Images/python.jpg' height="40" alt="python logo"  />
+  <img src='python.jpg' height="40" alt="python logo"  />
   <img width="24" />
   <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="14" />
-<img src="Images/mysql.png" height="40" alt="mysql logo"  />
+<img src="mysql.png" height="40" alt="mysql logo"  />
   <img width="14" />
-  <img src="Images/numpy.png" height="40" alt="numpy logo"  />
+  <img src="numpy.png" height="40" alt="numpy logo"  />
   <img width="14" />
-  <img src="Images/Pandas.png" height="40" alt="pandas logo"  />
+  <img src="Pandas.png" height="40" alt="pandas logo"  />
   <img width="14" />
-  <img src="Images/mat.png" height="40" alt="matplotlib logo"  />
+  <img src="mat.png" height="40" alt="matplotlib logo"  />
   <img width="14" />
-  <img src="Images/seaborn.png" height="40" alt="seaborn logo"  />
+  <img src="seaborn.png" height="40" alt="seaborn logo"  />
   <img width="14" />
-<img src="Images/power.jpg" height="40" alt="power bi logo"  />
+<img src="power.jpg" height="40" alt="power bi logo"  />
   <img width="14" />
-  <img src="Images/ds.jpg" height="40" alt="Data Science logo"  />
+  <img src="ds.jpg" height="40" alt="Data Science logo"  />
   <img width="14" />
-  <img src="Images/ml.png" height="40" alt="machine learning logo"  />
+  <img src="ml.png" height="40" alt="machine learning logo"  />
   <img width="24" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="14" />
