@@ -18,7 +18,7 @@
 <a href="https://twitter.com/2000pawanyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="2000pawanyadav" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/2000pawanyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="2000pawanyadav" height="30" width="40" /></a>
 <a href="https://instagram.com/2000pawanyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="22devil_in_my_world" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@yaduvanshi2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@yaduvanshi2000" height="30" width="40" /></a>
+<a href=https://www.hackerrank.com/profile/yaduvanshi2000 target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@yaduvanshi2000" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/2000pawan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="2000pawan" height="30" width="40" /></a>
 </p>
 
