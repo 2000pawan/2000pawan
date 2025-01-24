@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hii there 👋
 
 <h1 align="center">Hi 👋, I'm PAWAN YADAV</h1>
-<h3 align="center">I'm a Data Scientist and Machine Learning Engineer from Noida, India.</h3>
+<h3 align="center">I'm an AI ENGINEER from Noida, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2000pawan&label=Profile%20views&color=0e75b6&style=flat" alt="2000pawan" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence.**
 
-- 💬 Ask me about **Python, Machine Learning.**
+- 💬 Ask me about **Python, Machine Learning, Java, Deep Learning, SQL, C, C++.**
 
 - 📫 How to reach me **yaduvanshi2000pawan@gmail.com**
 
