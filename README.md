@@ -26,7 +26,7 @@
 <div align="left">
   <img src='python.jpg' height="40" alt="Python logo"  />
   <img width="24" />
-  <img src='img1.jpg' height="40" alt="Java logo"  />
+  <img src='img1.png' height="40" alt="Java logo"  />
   <img width="24" />
   <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
