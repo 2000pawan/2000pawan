@@ -3,7 +3,6 @@
 <h1 align="left">Hi 👋, I'm PAWAN YADAV</h1>
 <h3 align="left">I'm an AI ENGINEER from Noida, India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=2000pawan&label=Profile%20views&color=0e75b6&style=flat" alt="2000pawan" /> </p>
 
 <p align="left"> <a href="https://twitter.com/2000pawanyadav" target="blank"><img src="https://img.shields.io/twitter/follow/2000pawanyadav?logo=twitter&style=for-the-badge" alt="2000pawanyadav" /></a> </p>
 
