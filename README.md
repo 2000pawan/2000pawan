@@ -26,7 +26,7 @@
 
 ### 🖥️ Languages:
 <p align="left">
-  <img src="python.jpg" height="40" alt="Python" />
+  <img src="python.jpg" height="60" width="60"  alt="Python" />
   <img src="img1.png" height="40" alt="Java" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
