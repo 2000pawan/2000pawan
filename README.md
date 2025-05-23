@@ -4,7 +4,7 @@
 <h3 align="left">I'm an AI ENGINEER from Noida, India.</h3>
 
 
-<p align="left"> <a href="https://twitter.com/2000pawanyadav" target="blank"><img src="https://img.shields.io/twitter/follow/2000pawanyadav?logo=twitter&style=for-the-badge" alt="2000pawanyadav" /></a> </p>
+<p align="left"> <a href="https://linktr.ee/2000yadav22" target="blank"><img src="https://img.shields.io/twitter/follow/2000pawanyadav?logo=twitter&style=for-the-badge" alt="2000pawanyadav" /></a> </p>
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 - 💬 Ask me about **Python, Machine Learning, Java, Deep Learning, SQL, C**
