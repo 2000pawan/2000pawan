@@ -27,41 +27,41 @@
 ### 🖥️ Languages:
 <p align="left">
   <img src="python.jpg" height="60" width="60"  alt="Python" />
-  <img src="img1.png" height="40" alt="Java" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="img1.png" height="60" width="60"  alt="Java" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="60" width="60"  alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"height="60" width="60"  alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" width="60"  alt="CSS3" />
 </p>
 
 ---
 
 ### 🤖 AI & Data Tools:
 <p align="left">
-  <img src="numpy.png" height="40" alt="NumPy" />
-  <img src="Pandas.png" height="40" alt="Pandas" />
-  <img src="mat.png" height="40" alt="Matplotlib" />
-  <img src="seaborn.png" height="40" alt="Seaborn" />
-  <img src="ml.png" height="40" alt="Machine Learning" />
-  <img src="ds.jpg" height="40" alt="Data Science" />
-  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="40" alt="PyTorch" /></a>
-  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40" alt="TensorFlow" /></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-learn" /></a>
-  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="40" alt="OpenCV" /></a>
+  <img src="numpy.png" height="60" width="60" alt="NumPy" />
+  <img src="Pandas.png" height="60" width="60" alt="Pandas" />
+  <img src="mat.png" height="60" width="60"  alt="Matplotlib" />
+  <img src="seaborn.png" height="60" width="60"  alt="Seaborn" />
+  <img src="ml.png" height="60" width="60"  alt="Machine Learning" />
+  <img src="ds.jpg" height="60" width="60"  alt="Data Science" />
+  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="60" width="60"  alt="PyTorch" /></a>
+  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="60" width="60"  alt="TensorFlow" /></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="60" width="60"  alt="Scikit-learn" /></a>
+  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="60" width="60"  alt="OpenCV" /></a>
 </p>
 
 ---
 
 ### 🗄️ Databases:
 <p align="left">
-  <img src="mysql.png" height="40" alt="MySQL" />
+  <img src="mysql.png" height="60" width="60" alt="MySQL" />
 </p>
 
 ---
 
 ### 🛠️ Other Tools:
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" alt="Linux" />
-  <img src="power.jpg" height="40" alt="Power BI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" width="60"  alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" width="60" alt="GitHub" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="60" width="60"  alt="Linux" />
+  <img src="power.jpg" height="60" width="60"  alt="Power BI" />
 </p>
