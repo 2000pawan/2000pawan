@@ -3,13 +3,15 @@
 # 👨‍💻 Pawan Yadav
 ### AI Engineer · Noida, India
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/2000pawanyadav?logo=twitter&style=flat-square&color=1DA1F2)](https://twitter.com/2000pawanyadav)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/2000pawanyadav)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/2000pawanyadav)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/yaduvanshi2000)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://www.leetcode.com/2000pawan)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yaduvanshi2000pawan@gmail.com)
-[![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=flat-square&logo=linktree&logoColor=black)](https://linktr.ee/2000yadav22)
+<p>
+  <a href="https://twitter.com/2000pawanyadav"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://linkedin.com/in/2000pawanyadav"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/2000pawanyadav"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.hackerrank.com/profile/yaduvanshi2000"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/></a>
+  <a href="https://www.leetcode.com/2000pawan"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="mailto:yaduvanshi2000pawan@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://linktr.ee/2000yadav22"><img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree"/></a>
+</p>
 
 </div>
 
@@ -28,7 +30,7 @@
 
 > **Prompt-Driven Tool-Calling for Lightweight Open Source LLMs**
 
-**Conference:** 3rd International Conference on Artificial Intelligence and Sustainable Computing for Smart Cities (AIS2C2 2025)
+**Conference:** 3rd International Conference on Artificial Intelligence and Sustainable Computing for Smart Cities (AIS2C2 2025)  
 **Author:** Pawan Yadav · **Pages:** 493–497 · **ISBN:** 978-93-94086-43-2
 
 **What problem does this research address?**
@@ -44,11 +46,11 @@ This research explores a **prompt-driven tool-calling framework** that enables l
 
 📖 [**Read the Proceedings →**](https://www.aiscindia.co.in/wp-content/uploads/2026/06/ilovepdf_merged-4.pdf)
 
-![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=flat-square)
-![Tool Calling](https://img.shields.io/badge/Tool%20Calling-0078D4?style=flat-square)
-![Open Source AI](https://img.shields.io/badge/Open%20Source%20AI-00A86B?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6B35?style=flat-square)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-DC143C?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge)
+![Tool Calling](https://img.shields.io/badge/Tool%20Calling-0078D4?style=for-the-badge)
+![Open Source AI](https://img.shields.io/badge/Open%20Source%20AI-00A86B?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6B35?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-DC143C?style=for-the-badge)
 
 ---
 
@@ -104,8 +106,14 @@ This research explores a **prompt-driven tool-calling framework** that enables l
 
 <div align="center">
 
-![Pawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=2000pawanyadav&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2000pawanyadav&layout=compact&hide_border=true&theme=default)
+![Pawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yadavpawan80&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yadavpawan80&layout=compact&hide_border=true&theme=tokyonight)
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=yadavpawan80&theme=tokyonight&hide_border=true)
 
 </div>
 
