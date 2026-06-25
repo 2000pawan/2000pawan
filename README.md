@@ -57,9 +57,10 @@ This research explores a **prompt-driven tool-calling framework** that enables l
 ## 🖥️ Languages
 
 <p align="left">
+  <img src="c.jpg" height="50" width="50" alt="C" title="C" />
+  <img src="c++.jpg" height="50" width="50" alt="C++" title="C++" />
   <img src="python.jpg" height="50" width="50" alt="Python" title="Python" />
   <img src="img1.png" height="50" width="50" alt="Java" title="Java" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="50" width="50" alt="C" title="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="50" alt="HTML5" title="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="50" alt="CSS3" title="CSS3" />
 </p>
@@ -83,6 +84,26 @@ This research explores a **prompt-driven tool-calling framework** that enables l
 
 ---
 
+## 🧠 LLM & AI Frameworks
+
+<p align="left">
+  <a href="https://www.langchain.com/" target="_blank"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="35" alt="LangChain" /></a>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="35" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white" height="35" alt="MCP" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white" height="35" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/Generative%20AI-FF6B35?style=for-the-badge&logo=openai&logoColor=white" height="35" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" height="35" alt="LLM" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-0078D4?style=for-the-badge&logo=openai&logoColor=white" height="35" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/RAG-00A86B?style=for-the-badge&logo=databricks&logoColor=white" height="35" alt="RAG" />
+  <img src="https://img.shields.io/badge/Fine--Tuning-DC143C?style=for-the-badge&logo=pytorch&logoColor=white" height="35" alt="Fine-Tuning" />
+  <img src="https://img.shields.io/badge/LoRA-FF4500?style=for-the-badge&logo=pytorch&logoColor=white" height="35" alt="LoRA" />
+  <img src="https://img.shields.io/badge/PEFT-6A0DAD?style=for-the-badge&logo=pytorch&logoColor=white" height="35" alt="PEFT" />
+  <img src="https://img.shields.io/badge/FAISS%20DB-0096FF?style=for-the-badge&logo=meta&logoColor=white" height="35" alt="FaissDB" />
+  <img src="https://img.shields.io/badge/Vector%20DB-00C7B7?style=for-the-badge&logo=pinecone&logoColor=white" height="35" alt="VectorDB" />
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="35" alt="FastAPI" /></a>
+</p>
+---
+
 ## 🗄️ Databases
 
 <p align="left">
@@ -98,6 +119,21 @@ This research explores a **prompt-driven tool-calling framework** that enables l
   <img src="https://skillicons.dev/icons?i=github" height="50" width="50" alt="GitHub" title="GitHub" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="50" width="50" alt="Linux" title="Linux" />
   <img src="power.jpg" height="50" width="50" alt="Power BI" title="Power BI" />
+</p>
+
+---
+## 🖥️ Platforms
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="35" alt="Linux" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" height="35" alt="iOS/macOS" />
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" height="35" alt="Windows" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" height="35" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="35" alt="Docker" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="35" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" height="35" alt="Keras" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="35" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="35" alt="PyTorch" />
 </p>
 
 ---
