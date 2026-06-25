@@ -106,14 +106,14 @@ This research explores a **prompt-driven tool-calling framework** that enables l
 
 <div align="center">
 
-![Pawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yadavpawan80&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yadavpawan80&layout=compact&hide_border=true&theme=tokyonight)
+![Pawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=2000pawan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2000pawan&layout=compact&hide_border=true&theme=tokyonight)
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yadavpawan80&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=2000pawan&theme=tokyonight&hide_border=true)
 
 </div>
 
