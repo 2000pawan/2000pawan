@@ -11,9 +11,10 @@
   <a href="https://www.leetcode.com/2000pawan"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
   <a href="mailto:yaduvanshi2000pawan@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://linktr.ee/2000yadav22"><img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree"/></a>
-  <a href="https://medium.com/@2000pawan"><img src="medium.jpg" alt="Medium"/></a>
-  <a href="https://dev.to/2000pawan"><img src="dev.png" alt="Dev Community"/></a>
-  <a href="https://discuss.huggingface.co/u/pawan2742/summary"><img src="hf.png" alt="HuggingFace"/></a>
+  <a href="https://medium.com/@2000pawan">
+  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+<a href="https://dev.to/2000pawan"><img src="https://img.shields.io/badge/DEV-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV"/></a>
+<a href="https://discuss.huggingface.co/u/pawan2742/summary"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
 </p>
 
 </div>
