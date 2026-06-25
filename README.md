@@ -102,6 +102,7 @@ This research explores a **prompt-driven tool-calling framework** that enables l
   <img src="https://img.shields.io/badge/Vector%20DB-00C7B7?style=for-the-badge&logo=pinecone&logoColor=white" height="35" alt="VectorDB" />
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="35" alt="FastAPI" /></a>
 </p>
+
 ---
 
 ## 🗄️ Databases
