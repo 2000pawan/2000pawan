@@ -146,12 +146,6 @@ This research explores a **prompt-driven tool-calling framework** that enables l
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![Pawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=2000pawan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2000pawan&layout=compact&hide_border=true&theme=tokyonight)
-
-</div>
 
 <div align="center">
 
